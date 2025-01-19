@@ -26,7 +26,7 @@ This project provides an interactive dashboard to analyze bike sales data. The d
 - Sales in New York are highest.
 - Sales of Baldwin Bikes Store are highest.
 - Road and Mountains bikes are sold more than other categories.
-- Venita Daniel sold more bikes than any other representative generating over $2.9 millions.
+- Marcelene Boyer, Venita Daniel sold more bikes than any other representative.
   
 ## Recommended Actions
 -  Analyze the factors that contributed to the success of 2022 (e.g., marketing campaigns, new product launches, seasonal factors) and try to replicate them in future years.
